@@ -1,0 +1,10 @@
+**__pycache__**
+.vscode/
+configs/CONFIGS.json
+.pytest_cache/
+LOGS/
+data/
+pyproject.toml
+references/
+inline_coder
+dist
