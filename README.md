@@ -86,15 +86,5 @@ bash inline_coder/Ablation/scripts/ablation_no_downstream.sh
 
 Results will be evaluated automatically.
 
-### 5. Pass@K Evaluation
-
-Pass@K evaluation is performed separately due to its runtime:
-
-```bash
-conda activate inlineCoder
-python inline_coder/DevEval/run_pass_k.py
-```
-
----
 
 If you have any questions or encounter issues, please refer to the documentation or contact
