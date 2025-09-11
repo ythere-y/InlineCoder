@@ -1,6 +1,6 @@
 # InlineCoder:
 
-This repository contains the code and data for our * paper. It provides scripts for data preprocessing, model evaluation, and ablation studies on the DevEval benchmark. ALL files are distributed by `pyarmor`.
+This repository contains the code and data for our * paper. It provides scripts for data preprocessing, model evaluation, and ablation studies on the DevEval benchmark.
 
 ![framework](./figures/framework.png)
 ## Dataset Preparation

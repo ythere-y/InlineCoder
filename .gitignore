@@ -6,5 +6,5 @@ LOGS/
 data/
 pyproject.toml
 references/
-inline_coder
 dist
+org_inline_coder
